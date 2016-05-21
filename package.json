@@ -1,0 +1,7 @@
+{
+  "author": "Ilya Drabenia",
+  "version": "0.0.1",
+  "dependencies": {
+    "rpi-gpio": "^0.7.0"
+  }
+}
