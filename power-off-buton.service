@@ -1,6 +1,5 @@
 [Unit]
 Description=App that shutdown device when button pressed
-After=multi-user.target
 
 [Service]
 Type=idle
